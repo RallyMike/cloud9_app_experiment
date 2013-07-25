@@ -1,3 +1,9 @@
-cloud9_app_experiment
-=====================
-Trying out the combination of using the Cloud9 IDE, rally-app-builder, and GitHub.
+c9_app_exp
+=========================
+
+## Overview
+
+
+## License
+
+AppTemplate is released under the MIT license.  See the file [LICENSE](https://raw.github.com/RallyApps/AppTemplate/master/LICENSE) for the full text.
